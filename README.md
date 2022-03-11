@@ -1,9 +1,10 @@
 # Xarr-Notify
 Sonarr Radarr   WebHook API 通知信息插件
 
-# XArr-Notify
-
 家庭影院扩展插件 影片更新通知
+
+Docker地址:https://hub.docker.com/r/xiaoyi510/xarr-notify
+Github地址:https://github.com/xiaoyi510/Xarr-Notify/
 
 ### 准备工作
 
