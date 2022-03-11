@@ -96,3 +96,9 @@ imgur:
 #### 建议
 如果有公网IP 则推荐使用 
 radarr.image = self
+
+
+
+images目录映射 用于显示图片
+/app/images/radarr = ln -s /mnt/user/appdata/radarr/MediaCover 
+/app/images/sonarr = ln -s /mnt/user/appdata/sonarr/MediaCov
