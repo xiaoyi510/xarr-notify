@@ -31,7 +31,11 @@ export default defineConfig({
         text: "介绍",
         items: [
           { text: "什么是 XArr-Notify", link: "/README" },
-          { text: "安装", link: "/installation" },
+          { text: "安装", link: "/installation" ,items:[
+            { text: "Docker", link: "/installation/docker" },
+            { text: "Unraid", link: "/installation/unraid" },
+
+          ]},
           // { text: '第一个工程', link: '/first-project' },
           // { text: '鸣谢', link: '/thanks' },
         ],
