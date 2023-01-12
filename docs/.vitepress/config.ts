@@ -41,6 +41,15 @@ export default defineConfig({
         ],
       },
       {
+        text:"使用教程",
+        items:[
+          {
+            text:"快速开始",
+            link:"/quickstart"
+          },
+        ],
+      },
+      {
         text: "常见问题",
         items: [
           {
